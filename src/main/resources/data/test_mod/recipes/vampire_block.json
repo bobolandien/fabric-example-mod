@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "rrr",
+    "rrr"
+  ],
+  "key": {
+    "r": {
+      "item": "test_mod:vampire_erz"
+    }
+    }
+  }
+  "result": {
+    "item": "test_mod:vampire_block",
+    "count": 2
+  }:
+},

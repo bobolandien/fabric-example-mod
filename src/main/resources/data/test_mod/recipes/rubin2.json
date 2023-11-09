@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "test_mod:rubin_erz"
+  },
+  "result": "test_mod:rubin",
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "rrr",
+    "rrr"
+  ],
+  "key": {
+    "r": {
+      "item": "test_mod:rubin"
+    },
+    "x": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "test_mod:rubin_block",
+    "count": 2
+  }
+}

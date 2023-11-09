@@ -1,0 +1,11 @@
+{
+  "item.test_mod.rubin": "Rubin",
+  "block.test_mod.rubin_block": "Rubin Block",
+  "block.test_mod.rubin_erz": "Rubin Erz",
+  "itemGroup.test_mod.test_group" : "Test Mod!",
+  "item.test_mod.rubin_spitzhacke": "Rubin Spitzhacke",
+  "item.test_mod.rubin_axt": "Rubin Axt",
+  "item.test_mod.rubin_schaufel": "Rubin Schaufel",
+  "item.test_mod.rubin_feldhacke": "Rubin Feldhacke",
+  "item.test_mod.rubin_schwert": "Rubin Schwert"
+}

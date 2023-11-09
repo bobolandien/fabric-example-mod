@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test_mod:rubin_block"
+    }
+  ],
+  "result": {
+    "item": "test_mod:rubin",
+    "count": 9
+  }
+}
