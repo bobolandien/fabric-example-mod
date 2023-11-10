@@ -25,6 +25,8 @@ dependencies {
 
 	// Uncomment the following line to enable the deprecated Fabric API modules. 
 	// These are included in the Fabric API production distribution and allow you to update your mod to the latest modules at a later more convenient time.
+	//slf4j
+	implementation group: 'org.slf4j', name: 'slf4j-api', version: '2.0.7'
 
 	// modImplementation "net.fabricmc.fabric-api:fabric-api-deprecated:${project.fabric_version}"
 }
